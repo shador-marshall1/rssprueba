@@ -1,0 +1,29 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0">
+	<channel>
+	<title>Historia de la guerra</title>
+	<description>La historia de la antigua segunda Gran Guerra</description>
+	<link>https://es.wikipedia.org/wiki/Segunda_Guerra_Mundial</link>
+		<item>
+			<title>Polonia rechaza el ultimatum alemán</title>
+			<description>Polonia rechaza el ultimatun alemán obre las reclamaciones en la ciudad de Danzig, estamos a la espera de saber cual será la respuesta de Alemania</description>
+			<author>John Alejandro</author>
+			<category>Hisotria </category>
+			<link>https://es.wikipedia.org/wiki/Invasi%C3%B3n_alemana_de_Polonia_de_1939</link>
+		</item>
+    <item>
+        <title>Reparaciones de la guerra</title>
+        <description>Alemania termina de pagar los crimenes de guerra</description>
+        <link>https://www.france24.com/es/europa/20210528-alemania-reconoce-haber-cometido-un-genocidio-en-namibia-e-indemnizar%C3%A1-al-pa%C3%ADs</link>
+        <author>John Alejandro Ramirez</author>
+        <category>News</category>
+    </item>
+    <item>
+      <title>Aragon para a fase 2 de la desescalada</title>
+      <description>Sira Repollés  baja aragón a la fase 2</description>
+      <link>https://www.heraldo.es/noticias/aragon/2021/06/03/ultima-hora-coronavirus-aragon-comparecencia-sira-repolles-1496906.html</link>
+      <author>John Alejandro Ramírez</author>
+      <category>News</category>
+    </item>
+	</channel>
+</rss>
